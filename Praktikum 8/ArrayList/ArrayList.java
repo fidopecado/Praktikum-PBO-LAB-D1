@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /*
 	Nama		: Firdaus Ravi Faizzani
-	NIM			: 24060121140035
+	NIM		: 24060121130067
 	Tanggal		: 31 Mei 2023
 */
 
