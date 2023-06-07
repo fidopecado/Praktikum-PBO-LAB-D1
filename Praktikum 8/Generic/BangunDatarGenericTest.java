@@ -2,7 +2,7 @@ package Generic;
 
 /*
 	Nama		: Firdaus Ravi Faizzani
-	NIM		: 24060121140067
+	NIM		: 24060121130067
 	Tanggal		: 31 Mei 2023
 */
 
